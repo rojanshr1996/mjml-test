@@ -4,6 +4,6 @@ $ sudo npm install -g sketch-json-cli
 
 ## Convert Sketch file to Json
 
-$ sketch-json <sketch file name>
+$ sketch-json sketch_file_name
 
 
