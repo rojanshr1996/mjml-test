@@ -1,0 +1,193 @@
+{
+  "document": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "0:1",
+        "name": "Page 1",
+        "type": "CANVAS",
+        "children": [
+          {
+            "id": "2:2",
+            "name": "drawing",
+            "type": "FRAME",
+            "blendMode": "PASS_THROUGH",
+            "children": [
+              {
+                "id": "44:3",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -125,
+                  "y": -163,
+                  "width": 210,
+                  "height": 297
+                },
+                "constraints": {
+                  "vertical": "SCALE",
+                  "horizontal": "SCALE"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              },
+              {
+                "id": "2:5",
+                "name": "layer2",
+                "type": "GROUP",
+                "blendMode": "PASS_THROUGH",
+                "children": [
+                  {
+                    "id": "2:6",
+                    "name": "Hello World",
+                    "type": "TEXT",
+                    "blendMode": "PASS_THROUGH",
+                    "absoluteBoundingBox": {
+                      "x": -99,
+                      "y": -134,
+                      "width": 55,
+                      "height": 13
+                    },
+                    "constraints": {
+                      "vertical": "SCALE",
+                      "horizontal": "SCALE"
+                    },
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0,
+                          "g": 0,
+                          "b": 0,
+                          "a": 1
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1,
+                    "strokeAlign": "INSIDE",
+                    "effects": [],
+                    "characters": "Hello World",
+                    "style": {
+                      "fontFamily": "Roboto",
+                      "fontPostScriptName": null,
+                      "fontWeight": 400,
+                      "fontSize": 10.583333015441895,
+                      "textAlignHorizontal": "LEFT",
+                      "textAlignVertical": "TOP",
+                      "letterSpacing": 0,
+                      "lineHeightPx": 12.40234375,
+                      "lineHeightPercent": 100,
+                      "lineHeightUnit": "INTRINSIC_%"
+                    },
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {}
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -99,
+                  "y": -134,
+                  "width": 55,
+                  "height": 13
+                },
+                "constraints": {
+                  "vertical": "SCALE",
+                  "horizontal": "SCALE"
+                },
+                "clipsContent": false,
+                "background": [],
+                "backgroundColor": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "effects": []
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": -125,
+              "y": -163,
+              "width": 210,
+              "height": 297
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "clipsContent": true,
+            "background": [
+              {
+                "blendMode": "NORMAL",
+                "visible": false,
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "backgroundColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            },
+            "effects": []
+          }
+        ],
+        "backgroundColor": {
+          "r": 0.8980392217636108,
+          "g": 0.8980392217636108,
+          "b": 0.8980392217636108,
+          "a": 1
+        },
+        "prototypeStartNodeID": null,
+        "exportSettings": [
+          {
+            "suffix": "",
+            "format": "PNG",
+            "constraint": {
+              "type": "SCALE",
+              "value": 1
+            }
+          },
+          {
+            "suffix": "@2x",
+            "format": "PNG",
+            "constraint": {
+              "type": "SCALE",
+              "value": 2
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "components": {},
+  "schemaVersion": 0,
+  "styles": {},
+  "name": "sampletest",
+  "lastModified": "2019-04-25T09:29:44.887464Z",
+  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/76bd033a-9f34-4d7b-bb99-ea582f76772c?Expires=1557100800&Signature=C~3UQpsg13ZKfmn-te~dMfENWbXAwT4kH7xxec8XWseK5bfQbsbKZ0E3agmUZGZlnzFDcZtDNOODeudzS79fPsETJNIixmPq8-Ieq4AMtPaG15GE9SfLvzmyy9f7HbcliyzyEoI9HQr3SVRzE1Q4-hXb-O76gwmJ9TZ4bCxEfgkBA6E1BwfC903etg55pgs01OlP6MPPf2HGX-6FzSK5jrRP3mV1VJylFJ2jN2MpTnTflnnbKvAFvQ94F3px4ma9Z3JbZunOiaipsayDP9Vip9FepmpJRj9YTznYAuieiGDkLYiXAHMcUyznBskrbQTC9EGcf-7MY7sVr~gE7TLmBA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+  "version": "126691180"
+}
