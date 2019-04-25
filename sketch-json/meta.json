@@ -1,0 +1,37 @@
+{
+  "commit": "25a070e8ae289f31b53070a88ef08db060debc17",
+  "appVersion": "46.1",
+  "build": 44463,
+  "app": "com.bohemiancoding.sketch3",
+  "pagesAndArtboards": {
+    "6E451DDB-E2C3-4F0A-A27C-A45BE1196B4C": {
+      "name": "Page 1",
+      "artboards": {
+        "3F8F7B36-37C2-4934-82F3-CBF6C4539F18": {
+          "name": "Style Guide"
+        }
+      }
+    },
+    "58FF8DBD-41F5-45C6-B1CA-4F13B169D5B8": {
+      "name": "Symbols",
+      "artboards": {
+        "AD7877A5-25FD-4849-AD08-8836EACBA9BA": {
+          "name": "Global Elements\/Logo"
+        }
+      }
+    }
+  },
+  "fonts": ["OpenSans-Extrabold", "OpenSans", "Circular-Std-Book"],
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "commit": "25a070e8ae289f31b53070a88ef08db060debc17",
+    "build": 44463,
+    "appVersion": "46.1",
+    "variant": "NONAPPSTORE",
+    "version": 93
+  },
+  "version": 93,
+  "saveHistory": ["NONAPPSTORE.44463"],
+  "autosaved": 1,
+  "variant": "NONAPPSTORE"
+}
