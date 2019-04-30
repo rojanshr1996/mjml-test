@@ -1,3 +1,4 @@
 # mjml-test
 
-# py-test-json
+# py-test-mjml
+python script to automate Figma to json conversion.
