@@ -4,9 +4,7 @@
 
 Python command:
 
-
-	&nbsp;
-	
+	&nbsp;	
 	python3 urlPythonautomate.py <Figma_File_ID>
 
 Output:
