@@ -3,7 +3,10 @@
 **urlPythonautomate.py** contains script to generate JSON using the Figma File ID as command line argument
 
 Python command:
+
+
 	&nbsp;
+	
 	python3 urlPythonautomate.py <Figma_File_ID>
 
 Output:
