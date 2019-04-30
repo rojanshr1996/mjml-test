@@ -3,15 +3,18 @@
     "id": "0:0",
     "name": "Document",
     "type": "DOCUMENT",
+
+    "tagName": "mjml",
     "children": [
       {
+        "tagName": "mj-body",
+        "attributes": {},
         "id": "0:1",
         "name": "Page 1",
         "type": "CANVAS",
         "children": [
           {
             "id": "2:2",
-            "name": "drawing",
             "type": "FRAME",
             "blendMode": "PASS_THROUGH",
             "children": [
@@ -54,15 +57,21 @@
                 "blendMode": "PASS_THROUGH",
                 "children": [
                   {
+                    "tagName": "mj-text",
+                    "attributes": {
+                      "align": "center"
+                    },
                     "id": "2:6",
-                    "name": "Hello World",
-                    "type": "TEXT",
+                    "content": "Hello World!"
+                    /* "name": "Hello World", */
+                    /* "type": "TEXT", */
                     "blendMode": "PASS_THROUGH",
-                    "absoluteBoundingBox": {
+
+                    /* "absoluteBoundingBox": {
                       "x": -99,
                       "y": -134,
                       "width": 55,
-                      "height": 13
+                      "height": 13 */
                     },
                     "constraints": {
                       "vertical": "SCALE",
